@@ -15,3 +15,7 @@ For example, with 3 tasks displaying, playing music, downloading, the system wil
 
 ![screenshot](https://github.com/phongdk29101999/golang-concurrency/blob/master/screenshots/goroutine.png)
 
+## Sections
+- [Goroutine](https://github.com/phongdk29101999/golang-concurrency/tree/master/goroutine)
+- [Waitgroup](https://github.com/phongdk29101999/golang-concurrency/tree/master/waitgroup)
+- [Channel](https://github.com/phongdk29101999/golang-concurrency/tree/master/channel)
